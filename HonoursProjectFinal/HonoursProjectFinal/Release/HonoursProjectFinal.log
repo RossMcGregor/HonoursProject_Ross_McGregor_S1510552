@@ -1,0 +1,7 @@
+﻿  HonoursProjectFinal.cpp
+c:\users\ross\documents\visual studio 2015\projects\honoursprojectfinal\honoursprojectfinal\OBJ_Loader.h(652): warning C4018: '<': signed/unsigned mismatch
+c:\users\ross\documents\visual studio 2015\projects\honoursprojectfinal\honoursprojectfinal\OBJ_Loader.h(689): warning C4018: '<': signed/unsigned mismatch
+c:\users\ross\documents\visual studio 2015\projects\honoursprojectfinal\honoursprojectfinal\OBJ_Loader.h(695): warning C4018: '<': signed/unsigned mismatch
+HonoursProjectFinal.cpp(83): error C3861: 'ImageDraw': identifier not found
+HonoursProjectFinal.cpp(90): error C3861: 'LoadFile': identifier not found
+HonoursProjectFinal.cpp(98): warning C4018: '<': signed/unsigned mismatch
